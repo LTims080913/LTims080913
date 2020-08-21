@@ -1,16 +1,26 @@
-### Hi there 👋
+### Hi there 👋 My name is Latosha Tims!
+I am a determined mother of five utilizing analytical skills in full-stack web development to produce creative and fully functional web applications. I've always had an interest in computer technology and programming, from building a computer and practicing web design, to learning to code in various programming languages. I have a passion for determining creative solutions to obstacles, facilitating a challenge-driven purpose. 
 
-<!--
-**LTims080913/LTims080913** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Node
+- React
+- Python
+- Redux
+- SQL
+- PostgreSQL
+- REST
+- AWS
+- Git
+- OOP
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on ...A police use of force map displaying incidents that occured across the country. 
+- 🌱 I’m currently learning ...to develop my skills 
+- 👯 I’m looking to collaborate on ...anything!
+- 🤔 I’m looking for help with ...my job hunt!
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: ...connect with me on [LinekdIn](https://www.linkedin.com/in/latosha-tims/)
+- ⚡ Fun fact: ...I love to draw!
 -->
