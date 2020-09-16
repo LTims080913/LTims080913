@@ -22,5 +22,6 @@ I am a determined mother of five utilizing analytical skills in full-stack web d
 - 🤔 I’m looking for help with ...my job hunt!
 - 💬 Ask me about ...the ongoing process of educating my children during the Covid-19 shutdown of schools
 - 📫 How to reach me: ...connect with me on [LinkedIn](https://www.linkedin.com/in/latosha-tims/)
-- ⚡ Fun fact: ...I love to draw! ![Picture used for sip and pain party](https://i.ibb.co/XC0QvMR/1596738514891.jpg)
+- ⚡ Fun fact: ...I love to draw!
+- ![Picture used for sip and pain party](https://i.ibb.co/XC0QvMR/1596738514891.jpg)
 -->
